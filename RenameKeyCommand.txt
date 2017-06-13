@@ -1,0 +1,1 @@
+cd /etc/vmware/ssl; mv rui.crt rui.crt.old; mv rui.key rui.key.old
